@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Sanjay is back</title>
+  </head>
+  <body>
+    <h1> Welcome to My Portfolio </h1>
+    <p>This is a simple page powered by Flask.</p>
+  </body>
+<meta name="description" content="My personal portfolio showcasing projects and skills.">
+<meta name="keywords" content="portfolio, web developer, Flask, Python">
+<meta name="author" content="Your Name">
+</html>
